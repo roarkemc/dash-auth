@@ -19,7 +19,7 @@ setup(
         'plotly',
         'dash>=0.18.3',
         'retrying',
-        'itsdangerous'
+        'itsdangerous>=0.18'
     ],
     include_package_data=True,
     url='https://plot.ly/dash',
